@@ -1,7 +1,5 @@
 <template>
   <section class="Home pt-4 sm:pt-6">
-    <Alert class="pt-0 pb-2 sm:py-4">
-    </Alert>
 
     <!-- 工具栏 -->
     <div class="pt-6 flex items-center text-sm">
